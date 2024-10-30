@@ -84,14 +84,11 @@ SlingTV
 Spotify
 TikTok
 TuneInRadio
-Twitter
+Twitter 
 Viber
 WinZipUniversal
 Wunderlist
 XING
-
-
-
 
 # ------------------------------------------------------------------------------------------------------------- #
 #  The apps below this line will NOT be uninstalled by default. Remove the # character in front of any app you  #
@@ -117,9 +114,10 @@ Microsoft.XboxSpeechToTextOverlay      # Might be required for some games, WARNI
 Microsoft.YourPhone                    # Phone link
 Microsoft.ZuneMusic                    # Modern Media Player
 MicrosoftWindows.CrossDevice           # Phone integration within File Explorer, Camera and more
-
-
-
+Microsoft.FreshPaint
+89006A2E.AutodeskSketchBook
+Microsoft.Office.Sway
+Microsoft.Wallet
 
 # --------------------------------------------------------------------------------------------------------------- #
 #  The apps below this line will NOT be uninstalled by default, unless selected during custom mode app selection  #
@@ -157,6 +155,7 @@ DellInc.DellDigitalDelivery
 DellInc.MyDell
 DellInc.DellProductRegistration
 DellInc.DellCustomerConnect
+DellInc.DellSupportAssistforPCs
 DB6EA5DB.MediaSuiteEssentialsforDell
 DB6EA5DB.PowerDirectorforDell
 DB6EA5DB.Power2GoforDell
@@ -174,3 +173,23 @@ AD2F1837.HPQuickDrop
 AD2F1837.HPWorkWell
 AD2F1837.myHP
 AD2F1837.HPDesktopSupportUtilities
+
+# Extra bloat apps found sometimes
+CAF9E577.Plex
+PandoraMediaInc.29680B314EFC2
+4DF9E0F8.Netflix
+C27EB4BA.DropboxOEM
+A278AB0D.DisneyMagicKingdoms
+A278AB0D.MarchofEmpires
+king.com.CandyCrushSodaSaga
+SpotifyAB.SpotifyMusic
+Amazon.com.Amazon
+7EE7776C.LinkedInforWindows
+PricelinePartnerNetwork.Booking.comEMEABigsavingso
+Microsoft.BingTranslator
+MixedRealityLearning
+9E2F88E3.Twitter_wgeqdkkx372wm
+Microsoft.BingTranslator
+PricelinePartnerNetwork.Booking.comEMEABigsavingso
+Facebook.InstagramBeta
+C27EB4BA.DropboxOEM
