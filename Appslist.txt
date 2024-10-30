@@ -145,3 +145,32 @@ Microsoft.HEVCVideoExtension
 Microsoft.AV1VideoExtension
 Microsoft.RawImageExtension
 Microsoft.MPEG2VideoExtension
+
+# Vendor Bloat - Dell
+DellInc.DellCommandUpdate
+DellInc.DellUpdate
+DellInc.PartnerPromo
+DellInc.DellPowerManager
+DellInc.DellSupportAssist
+DellInc.DellHelpSupport
+DellInc.DellDigitalDelivery
+DellInc.MyDell
+DellInc.DellProductRegistration
+DellInc.DellCustomerConnect
+DB6EA5DB.MediaSuiteEssentialsforDell
+DB6EA5DB.PowerDirectorforDell
+DB6EA5DB.Power2GoforDell
+DB6EA5DB.PowerMediaPlayerforDell
+
+# Vendor Bloat - HP
+AD2F1837.HPJumpStarts
+AD2F1837.HPPCHardwareDiagnosticsWindows
+AD2F1837.HPPowerManager
+AD2F1837.HPPrivacySettings
+AD2F1837.HPSupportAssistant
+AD2F1837.HPSureShieldAI
+AD2F1837.HPSystemInformation
+AD2F1837.HPQuickDrop
+AD2F1837.HPWorkWell
+AD2F1837.myHP
+AD2F1837.HPDesktopSupportUtilities
