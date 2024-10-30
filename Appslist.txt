@@ -135,8 +135,13 @@ Microsoft.Windows.DevHome
 Microsoft.windowscommunicationsapps    # Mail & Calendar
 Microsoft.XboxGameOverlay              # Game overlay, required/useful for some games
 Microsoft.XboxGamingOverlay            # Game overlay, required/useful for some games
+
+# Has Common Vuln
 Microsoft.WebpImageExtension
 Microsoft.WebMediaExtensions
 Microsoft.VP9VideoExtensions
 Microsoft.HEIFImageExtension
+Microsoft.HEVCVideoExtension
 Microsoft.AV1VideoExtension
+Microsoft.RawImageExtension
+Microsoft.MPEG2VideoExtension
