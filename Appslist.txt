@@ -2,7 +2,7 @@
 #  The apps below this line WILL be uninstalled by default. Add a # character in front of any app you want to    #
 #   KEEP installed by default.                                                                                   #
 # -------------------------------------------------------------------------------------------------------------- #
-Clipchamp.Clipchamp
+#Clipchamp.Clipchamp
 Microsoft.3DBuilder
 Microsoft.549981C3F5F10   #Cortana app
 Microsoft.BingFinance
@@ -127,9 +127,9 @@ Microsoft.Wallet
 Microsoft.GamingApp                    # Modern Xbox Gaming App, required for installing some PC games
 #Microsoft.OutlookForWindows            # New mail app: Outlook for Windows
 Microsoft.People                       # Required for & included with Mail & Calendar
-Microsoft.PowerAutomateDesktop
+#Microsoft.PowerAutomateDesktop
 #Microsoft.RemoteDesktop
-Microsoft.Windows.DevHome
+#Microsoft.Windows.DevHome
 Microsoft.windowscommunicationsapps    # Mail & Calendar
 Microsoft.XboxGameOverlay              # Game overlay, required/useful for some games
 Microsoft.XboxGamingOverlay            # Game overlay, required/useful for some games
@@ -192,4 +192,3 @@ MixedRealityLearning
 Microsoft.BingTranslator
 PricelinePartnerNetwork.Booking.comEMEABigsavingso
 Facebook.InstagramBeta
-C27EB4BA.DropboxOEM
